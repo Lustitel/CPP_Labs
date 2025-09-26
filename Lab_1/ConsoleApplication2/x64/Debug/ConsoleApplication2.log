@@ -1,0 +1,13 @@
+﻿  Box.cpp
+  Container.cpp
+  main.cpp
+D:\Прога.Универ\Второй курс\Лабы по плюсам\Lab_1\ConsoleApplication2\Container.h(27,30): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Container.cpp")
+  
+D:\Прога.Универ\Второй курс\Лабы по плюсам\Lab_1\ConsoleApplication2\Container.cpp(11,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Прога.Универ\Второй курс\Лабы по плюсам\Lab_1\ConsoleApplication2\Container.h(27,30): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\Прога.Универ\Второй курс\Лабы по плюсам\Lab_1\ConsoleApplication2\main.cpp(19,13): warning C4566: символ, представленный универсальным именем символа "\u00B3", невозможно представить в текущей кодовой странице (1251)
+  Создание кода...
+  ConsoleApplication2.vcxproj -> D:\Прога.Универ\Второй курс\Лабы по плюсам\Lab_1\x64\Debug\ConsoleApplication2.exe
